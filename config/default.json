@@ -1,0 +1,7 @@
+{
+  "mysql" : {
+    "host" : "",
+    "user" : "node",
+    "database" : "node"
+  }
+}

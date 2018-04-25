@@ -1,0 +1,5 @@
+{
+  "mysql" : {
+    "password": "app_mysql_password"
+  }
+}
